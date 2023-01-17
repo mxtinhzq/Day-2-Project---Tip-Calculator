@@ -1,8 +1,5 @@
 # Tip-Calculator
-Boolean - True or False
-[] - A string that prints out following the number in the bracket
-type() - This function checks what type of data it is
-str() - convert an integer to a string
+Day 2 - Boolean - True or False, [] - A string that prints out following the number in the bracket, type() - This function checks what type of data it, str() - convert an integer to a string
 + - Additional
 - - Subtraction
 * - Multiplication
